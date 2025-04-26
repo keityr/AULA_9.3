@@ -1,0 +1,2 @@
+nome, idade, altura
+laisa, 18, 1.70
